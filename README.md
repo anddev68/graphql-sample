@@ -1,15 +1,20 @@
-# What is this?
+## What is this?
 
-最低限GraphQLが動くようになっているサンプル。
-SSRとか非考慮です。
+Next.js x Yoga Server x urql のサンプルです。
 
 Next.jsのAPI RoutesでYoga Serverが起動します。
 
+
+## 起動方法
 
 ```
 npm run dev
 ```
 
+http://localhost:3000/ にアクセスすると、helloが表示される。
+
+
+## 参考文献
 
 Yoga Serverはこれを参考にした。
 
